@@ -1,4 +1,4 @@
-// Improved UI Version of GroceryList.dart with updated app bar color and stylish snackbar
+
 import 'dart:convert';
 import 'package:fetchit/models/category.dart';
 import 'package:flutter/material.dart';
